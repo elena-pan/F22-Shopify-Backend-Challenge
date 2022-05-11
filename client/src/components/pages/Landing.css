@@ -1,0 +1,75 @@
+.main-content {
+    min-height: 90vh;
+}
+
+h5 {
+    padding-top: 20px;
+}
+
+.logo {
+    font-size: 144px;
+}
+
+.header-inputs {
+    display: flex;
+}
+
+.searchbar {
+    flex: 1;
+    margin-right: 16px;
+}
+
+.private-checkbox {
+    margin: 32px;
+}
+
+.add-image {
+    border-radius: 3px;
+    margin-top: 16px;
+}
+
+.card {
+    height: 300px;
+}
+
+.card-content {
+    padding: 18px !important;
+    padding-top: 14px !important;
+}
+
+.card-action {
+    padding: 18px !important;
+}
+
+.card-title {
+    font-size: 24px !important;
+    font-weight: bolder;
+}
+
+.card-image {
+    height: 230px;
+    width: 100%;
+}
+
+.card-image img {
+    object-fit: cover;
+    min-height: 200px;
+}
+
+input[type="checkbox"].filled-in:checked + span:after{
+    border: 2px solid #2979ff !important;
+    background-color: #2979ff !important;
+}
+
+.input-field input[type=text]:focus + label {
+    color: #2979ff !important;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #2979ff !important;
+    box-shadow: 0 1px 0 0 #2979ff !important;
+}
+
+.input-field .prefix.active {
+    color: #000;
+}
