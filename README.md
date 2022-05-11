@@ -1,6 +1,8 @@
 
 # Inventory - Shopify Backend Challenge
 
+[![Run on Repl.it](https://repl.it/badge/github/elena-pan/F22-Shopify-Backend-Challenge)](https://F22-Shopify-Backend-Challenge.elenapan1.repl.co)
+
 An API that keeps track of an inventory of items. Users can get, add, edit, and delete inventory items. A frontend that connects to the backend is also included for demonstration purposes. This project was created for the [Shopify Fall 2022 Backend Intern Challenge](https://docs.google.com/document/d/1PoxpoaJymXmFB3iCMhGL6js-ibht7GO_DkCF2elCySU/edit).
 
 [Features](#features) \
